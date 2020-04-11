@@ -18,8 +18,12 @@
         "vue-template-compiler": "^2.6.10"
     },
     "dependencies": {
+<<<<<<< HEAD
         "axios": "^0.18.0",
         "kind-of": "^6.0.3",
+=======
+        "axios": "^0.18.1",
+>>>>>>> 0ea2b95a5471be5b02b9ea8e0edc510d907e4ce1
         "laue": "^0.2.0",
         "minimist": "^1.2.3",
         "serialize-javascript": "^2.1.1",
